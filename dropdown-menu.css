@@ -102,10 +102,3 @@ ul.nav-sub li a {
 	font: 12px Arial, Helvetica, sans-serif;	
 }
 
-body
-{
-background-image:url('mybackground.jpg');
-background-repeat:repeat-y;
-background-attachment:fixed;
-background-position:center; 
-}
