@@ -130,3 +130,23 @@
 [0723/173944.037:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
 [0723/173944.037:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
 [0723/173944.037:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0724/094351.529:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0724/094351.531:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0724/094351.531:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0724/094351.531:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0724/101731.476:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0724/101731.476:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0724/101731.476:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0724/101731.476:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0724/102130.621:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0724/102130.621:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0724/102130.621:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0724/102130.621:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0724/102137.937:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0724/102137.955:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0724/102137.955:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0724/102137.955:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0724/104509.441:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0724/104509.442:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0724/104509.442:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0724/104509.442:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
